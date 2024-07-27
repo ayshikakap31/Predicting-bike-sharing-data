@@ -2,11 +2,11 @@
 In this project a basic neural network is built to train and predict the bike rentals.
 ========================================= 
 
-Bike Sharing Dataset
+## Bike Sharing Dataset
 
 =========================================
-Hadi Fanaee-T
 
+Hadi Fanaee-T
 Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
 INESC Porto, Campus da FEUP
 Rua Dr. Roberto Frias, 378
@@ -15,7 +15,7 @@ Rua Dr. Roberto Frias, 378
 
 =========================================
 
-Background 
+## Background 
 
 =========================================
 
