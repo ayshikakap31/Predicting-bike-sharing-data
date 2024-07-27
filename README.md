@@ -33,7 +33,7 @@ events in the city could be detected via monitoring these data.
 
 =========================================
 
-Data Set
+## Data Set
 
 =========================================
 Bike-sharing rental process is highly correlated to the environmental and seasonal settings. For instance, weather conditions,
@@ -44,7 +44,7 @@ extracted and added the corresponding weather and seasonal information. Weather 
 
 =========================================
 
-Associated tasks
+## Associated tasks
 
 =========================================
 
@@ -59,7 +59,7 @@ Associated tasks
 
 =========================================
 
-Files
+## Files
 
 =========================================
 
@@ -70,7 +70,7 @@ Files
 	
 =========================================
 
-Dataset characteristics
+## Dataset characteristics
 
 =========================================	
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
@@ -99,7 +99,7 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	
 =========================================
 
-License
+## License
 
 =========================================
 Use of this dataset in publications must be cited to the following publication:
